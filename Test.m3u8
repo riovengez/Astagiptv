@@ -1,0 +1,1 @@
+ffmpeg -cenc_decryption_key 00034034630f63236c5214da66d2a659:593b306e51f692f0ed13e0263070e9ea -i "https://linear035-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_hd/Live/channel(skyshowcase)/manifest_hd.mpd" -c copy video.ts
