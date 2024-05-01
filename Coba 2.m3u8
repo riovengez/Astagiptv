@@ -1,5 +1,6 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36:referer=https://claplivehdplay.ru/
+
+#EXTINF:-1 tvg-id="LA2 TDT SD 4.sp" tvg-name="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="TDT",LA 2 vcl
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; …) Gecko/20100101 Firefox/59.0
 https://websuit.onlinehdhls.ru/est1/cdn/mono31/tracks-v1a1/mono.m3u8
