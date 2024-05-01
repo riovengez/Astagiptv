@@ -1,5 +1,9 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,VIDEO-RANGE=SDR
-https://inst2.ignores.top/js/al-nasr-vs-shabab-al-ahli-dubai/1/playlist.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,VIDEO-RANGE=PQ
-https://inst2.ignores.top/js/al-nasr-vs-shabab-al-ahli-dubai/2/playlist.m3u8
+#EXT-X-TARGETDURATION:233
+#EXTINF:1
+https://scdn.bbongtv.net/fadostream409/media-ud34q3ww1_2906.ts
+#EXTINF:1
+https://scdn.bbongtv.net/fadostream409/media-ud34q3ww1_2907.ts
+#EXTINF:1
+https://scdn.bbongtv.net/fadostream409/media-ud34q3ww1_2908.ts
+#EXT-X-ENDLIST
