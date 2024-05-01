@@ -1,4 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://inst3.ignores.top/js/catanzaro-vs-venezia/5/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,VIDEO-RANGE=SDR
+https://inst2.ignores.top/js/al-nasr-vs-shabab-al-ahli-dubai/1/playlist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,VIDEO-RANGE=PQ
+https://inst2.ignores.top/js/al-nasr-vs-shabab-al-ahli-dubai/2/playlist.m3u8
