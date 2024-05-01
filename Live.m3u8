@@ -1,12 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:3
-#EXT-X-MEDIA-SEQUENCE:2985
-#EXT-X-DISCONTINUITY-SEQUENCE:0
-#EXTINF:2.002,
-media-ud34q3ww1_2906.ts
-#EXTINF:2.002,
-media-ud34q3ww1_2907.ts
-#EXTINF:2.002,
-media-ud34q3ww1_2908.ts
-https://scdn.bbongtv.net/fadostream409/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",BeIN Sports 1 ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
