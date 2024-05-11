@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280000
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:17:01:A6& extension=m3u8&stream=1365604
-
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:17:01:A6&extension=m3u8&stream=1365604
+#http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&extension=m3u8&stream=482839
