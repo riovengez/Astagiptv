@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1598274
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:27:9F:9F&extension=m3u8&stream=192294
-#http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&extension=m3u8&stream=489769
-#http://386004340698368440.ofx508.xyz/live/fe222037/g5XCqxKwp6/228388.m3u8
+http://optimus-tv.org:8080/play/live.php?mac=00:1A:79:01:69:ef&extension=m3u8&stream=489769
+http://386004340698368440.ofx508.xyz/live/fe222037/g5XCqxKwp6/228388.m3u8
