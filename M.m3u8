@@ -1,4 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+#EXTINF:-1 group-title=""  tvg-logo="", Match
 http://193.201.98.10:5000/c114
