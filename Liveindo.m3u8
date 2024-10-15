@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="Live" tvg-logo="", Bein 3
+http://smart.maxmon.xyz/live/miy228020/c@rNPXjda4t/333793.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo=""SPORKLUB 5
+http://housery.top:8080/live/31713362096156/e928fc91c1cc/24028.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo=""ESPN 
+http://housery.top:8080/live/31713362096156/e928fc91c1cc/9871.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo=""ESPN  (bckup 1)
+http://smart.maxmon.xyz/live/miy228020/c@rNPXjda4t/877847.ts
+
+#EXTINF:-1 group-title="Live" tvg-logo=""ESPN (bckup 2)
+http://smart.maxmon.xyz/live/miy228020/c@rNPXjda4t/895906.ts
